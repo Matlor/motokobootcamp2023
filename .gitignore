@@ -1,0 +1,7 @@
+.dfx
+node_modules
+dist/
+build/
+declarations/
+.DS_Store
+.vessel
